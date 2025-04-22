@@ -3,7 +3,7 @@ CustomerID,Name,Age,Income,Location,Email,Phone,Gender,ProductCategory,SpendingS
 54049,Taylor Whitehead,45,34705,Nicholashaven,hortonjames@example.com,(386)799-9905,Male,Sports,43,96
 55665,Richard Bright,59,107681,Cameronstad,jennifer00@example.org,303-851-6730x051,Female,Fashion,9,43
 55554,Tonya Martinez,54,113609,Gutierrezshire,james03@example.com,001-245-655-6643x9119,Female,Electronics,57,77
-74999,Jose Thompson,49,108760,New Garytown,kennethhayes@example.org,(457)570-5728x76486,Female,Beauty,41,37
+74999,Jose Thompson,49,108760,Nan,kennethhayes@example.org,(457)570-5728x76486,Female,Beauty,41,37
 76350,Mckenzie Beltran,56,84881,Woodhaven,sarah51@example.net,558-602-0002x74427,Female,Sports,95,11
 51474,Barbara Obrien,72,93256,South Alexander,shannon63@example.net,(411)344-4176x980,Male,Electronics,48,54
 99830,Mr. Jeffery Bender,36,80324,Timothyland,floydpeter@example.com,+1-215-785-2274,Female,Electronics,50,85
@@ -12,11 +12,11 @@ CustomerID,Name,Age,Income,Location,Email,Phone,Gender,ProductCategory,SpendingS
 61062,Heather Wallace,55,66105,Jamiefort,qgalloway@example.org,506.219.5113,Female,Sports,51,62
 63760,Robert Ortiz,30,96831,South Margaretfurt,patriciawalker@example.org,001-792-956-7143x310,Female,Electronics,96,96
 86904,Richard Johnson,48,31756,Williamstown,romerorenee@example.net,869-864-5698x08852,Male,Sports,87,13
-45813,Nancy Kelley,25,114889,Mooneyton,jennifertaylor@example.org,(445)713-7499x73878,Male,Beauty,26,74
+45813,Nancy Kelley,25,114889,Mooneyton,jennifertaylor@example.org,(445)713-7499x73878,Male,NaN,26,74
 42787,Manuel Walters,70,83182,West Katherine,jonathan82@example.net,(598)717-9816,Male,Sports,45,83
 9464,Kevin Sherman,74,105095,Port Joyceview,joshua17@example.org,001-642-933-5680,Male,Electronics,45,30
 63142,Jacqueline Vaughan,19,110859,New Natalie,wroberts@example.com,755.563.0675x65029,Male,Sports,50,57
-91216,Courtney Cooper,57,30395,East Grantport,jessica66@example.net,435.246.2799,Male,Sports,13,93
+91216,Courtney Cooper,57,30395,East Grantport,jessica66@example.net,435.246.2799,Nan,Sports,13,93
 5229,Dawn Fuller,70,119054,Lake Joyhaven,sonia18@example.com,(704)659-8117x2386,Male,Beauty,77,31
 47696,Kimberly Sutton,44,62587,East Reneeville,jeff90@example.com,+1-265-680-3326x2777,Female,Electronics,47,100
 18402,Evelyn Gay,51,58721,Laurenburgh,jonathan06@example.com,(540)220-1347,Male,Food,5,72
